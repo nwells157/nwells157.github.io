@@ -1,0 +1,26 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  color: lightblue;
+}
+
+li {
+  color: red;
+}
+#goodPoint {
+  color: brown;
+  font-size: 30px;
+}
+.normal {
+  color:blue;
+  font-size: 20px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  text-align: center;
+}
